@@ -1,0 +1,27 @@
+{
+  "name": "body-parser",
+  "version": "1.0.0",
+  "description": "a sample project",
+  "main": "main",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werachon19/Git-Nodejs-LineAPI-Firebase.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "werachon phunta <werachonp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/werachon19/Git-Nodejs-LineAPI-Firebase/issues"
+  },
+  "homepage": "https://github.com/werachon19/Git-Nodejs-LineAPI-Firebase#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.3.0",
+    "request": "^2.88.0"
+  }
+}
