@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "test lineAPI",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "Git-Nodejs-LineAPI-Firebase",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
