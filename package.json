@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/werachon19/Git-Nodejs-LineAPI-Firebase#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-admin": "^8.3.0",
     "request": "^2.88.0"
   }
